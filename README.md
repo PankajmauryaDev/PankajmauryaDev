@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Maurya</h1>
 
 <h3 align="center">
-  MCA Student | Data Science & Machine Learning Enthusiast | Data Analyst
+  Data Engineer | Data Science & Machine Learning Enthusiast | Data Analyst
 </h3>
 
 <p align="center">
