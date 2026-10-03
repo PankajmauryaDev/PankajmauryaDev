@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Maurya</h1>
 
 <p align="center">
-  <b>MCA Student | Data Analytics & Data Science Enthusiast</b>
+  <b>MCA Student | Data Analytics & Data Engineer Enthusiast</b>
 </p>
 
 ---
