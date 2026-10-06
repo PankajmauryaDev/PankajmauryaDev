@@ -9,11 +9,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,streamlit,n8n" />
 </p>
 
 <p align="center">
