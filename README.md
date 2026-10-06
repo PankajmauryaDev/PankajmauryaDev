@@ -9,7 +9,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n" />
 </p>
 
 <p align="center">
@@ -46,6 +50,3 @@
 * Logical & Analytical Thinking
 * Mathematics & Statistics
 * Programming Problems
-
----
-
